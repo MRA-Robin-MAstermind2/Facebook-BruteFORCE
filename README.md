@@ -1,6 +1,6 @@
 # FacebookBruteFORCE2.0
 ```
-Bruteforce attack--->>>
+Facebook Bruteforce attack--->>>
 ```
 
 ## Install Requirements (on Linux)
